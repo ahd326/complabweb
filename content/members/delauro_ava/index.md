@@ -11,7 +11,7 @@ cover:
     alt: ""
     relative: false
 editPost:
-    URL: ../../XXXX
+    URL: [CV_url](https://github.com/ahd326/CV/blob/main/resume_2024)
     Text: "CV"
 showToc: true
 disableAnchoredHeadings: false
