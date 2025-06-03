@@ -19,8 +19,8 @@ disableAnchoredHeadings: false
 ---
 
 Ava is a Population Health major in the Department of Population Health at the College of Health at Lehigh University.
-Ava's research focuses on modeling and forecasting infectious disease outbreaks, as well as examining stigma among nurses toward patients who use drugs.
-Ava’s long-term goal is to deepen her understanding of infectious disease outbreaks and contribute to improving public health responses.
+Ava’s research centers on modeling and forecasting infectious disease outbreaks to support timely and effective public health responses. She also investigates stigma in healthcare settings, with a particular focus on how nurses’ attitudes toward patients who use drugs influence care delivery and health outcomes.
+Ava’s long-term goal is to deepen her understanding of infectious disease outbreaks and contribute to improving public health responses. She hopes to apply to graduate school to pursue public health.
 
-[Linked in](www.linkedin.com/in/ava-delauro-924046269)
-[Linked in](https://github.com/ahd326/complabweb)
+[Linkedin-profile](www.linkedin.com/in/ava-delauro-924046269)
+[Github-profile](https://github.com/ahd326)
